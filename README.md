@@ -11,3 +11,7 @@ This project focused on further statistical analysis and hypothesis testing. The
 
 ## Project 3
 The last project was more compehensive as it required going through the data analysis pipeline with additional emphasis on visualisation and presentation. It also includes a navigatable slide deck that present the final findings from the analysis. 
+
+
+
+** html files included are either the notebook exported or a slide deck. They can be viewed in the browser to see the steps and results of the analysis.
